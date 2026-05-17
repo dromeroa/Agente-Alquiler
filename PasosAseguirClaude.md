@@ -1,6 +1,7 @@
 Aquí está tu plan completo. Primero el flujo visual, luego el detalle día a día.Ahora aquí está el plan completo con todos los ingredientes y actividades por día:
 
----
+<img width="1440" height="1960" alt="imagen" src="https://github.com/user-attachments/assets/aa08fdb7-a3fa-4472-9c5e-f1e12e7fddb5" />
+
 
 ## Los ingredientes (stack tecnológico gratuito o casi gratis)
 
